@@ -6,7 +6,7 @@ After pulling this Example!
 
 Way to start and run it!
 
--> Open it with any IDE (prefer IntelliJ)
+-> Open it with any IDE (prefer IntelliJ)                                                                                                                                 
 -> go to Main class and run the gRPC Server
 -> go to Test classes, and then run test methods 
 
