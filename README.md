@@ -1,5 +1,5 @@
 # gRPC-Protobuff
-In this, Bank System Example, To get grip on gRPC Framework, so i start doing practice and make an project to perform all type of gRPC such as 1to1 type, Client Streaming Type, Server Streaming Type, and last one is Bidirectional Stream type. 
+In this, Bank System Example, To get grip on gRPC Framework, so i start doing practice and make a project to perform all type of gRPC such as 1to1 type, Client Streaming Type, Server Streaming Type, and last one is Bidirectional Stream type. 
 
 
 After pulling this Example!
